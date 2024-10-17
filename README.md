@@ -31,4 +31,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deployed Preview
 
-Open []
+Open [https://fewdie.netlify.app](https://fewdie.netlify.app)
